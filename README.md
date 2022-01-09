@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, my name is Qi En (or Colin) ! 😄🌠
+I am currently enrolled in the Singapore Institute of Technology's Robotics Systems Engineering course (w/ Honours). I am passionate about revolutionary blockchain and robotics  technologies that can further improve the life of those around me.
 
-<!--
-**monopolyroku/monopolyroku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skillsets 🛠️
+<p align=center>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width=50 height=50 alt="C-language">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" width=50 height=50 alt="C++-language">  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" width=115 height=50 alt="Golang">  
+</p>
 
-Here are some ideas to get you started:
+## Current projects 🚧
+NIL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Pronouns 🌈
+My gender pronouns are he/him/his! Do let me know yours when we connect. 
+
+
+## Contact
+- Email: colinqien@hotmail.com
+- Linkedin: [Click here](www.linkedin.com/in/colinwqe)
+- Webpage:  
+
