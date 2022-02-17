@@ -18,5 +18,5 @@ My gender pronouns are he/him/his! Do let me know yours when we connect.
 ## Contact
 - Email: colinqien@hotmail.com
 - Linkedin: [Click here](www.linkedin.com/in/colinwqe)
-- Webpage: [Click here] (https://codepen.io/collatereal/pen/zYKyLPX)
+- Webpage: [Click here](https://codepen.io/collatereal/pen/zYKyLPX)
 
