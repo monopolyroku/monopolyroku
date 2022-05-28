@@ -1,4 +1,4 @@
-# Hi there, my name is Qi En (or Colin) ! 😄🌠
+# Hi there, my name is Qi En! 😄🌠
 I am currently enrolled in the Singapore Institute of Technology's Robotics Systems Engineering course (w/ Honours). I am passionate about revolutionary blockchain and robotics  technologies that can further improve the life of those around me.
 
 ## Skillsets 🛠️
