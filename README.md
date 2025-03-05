@@ -1,4 +1,4 @@
-# Hi there, my name is Colin! 😄🌠
+# I m Colin frfrfr 
 Hello there, thank you for visiting. I use my github as an archive for coding projects and wtv.
 
 ## Software skillsets 🛠️
