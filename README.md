@@ -1,4 +1,4 @@
-# I m Colin frfrfr 
+# I m Col or u can call me En
 Hello there, thank you for visiting. I use my github as an archive for coding projects and wtv.
 
 ## Software skillsets 🛠️
